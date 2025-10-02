@@ -29,5 +29,15 @@ namespace prim2
             g.Insertar();
             g.ImprimirMatriz(rich);
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            List<int[]> Arbol = g.Prim();
+
+            foreach (var arista in Arbol) 
+            {
+                listBox1.Items.Add($"{arista[0]}\t{arista[1]}");
+            }
+        }
     }
 }

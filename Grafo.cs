@@ -39,9 +39,44 @@ namespace prim2
             {
                 for (int j = 0; j < numNodos; j++) 
                 {
-                    rich.Text += "\n";
+                    rich.Text += matriz[i, j] + "\t";
                 }
+                rich.Text += "\n";
             }
+        }
+        public List<int[]> Prim() 
+        {
+            List<int[]> ArbolExpansion = new List<int[]>();
+            HashSet<int> VerticesVisitados = new HashSet<int>();
+
+            int verticeInicial = 0;
+
+            VerticesVisitados.Add(verticeInicial);
+
+            while (VerticesVisitados.Count < numNodos)
+            {
+                int[] aristaMinima = null;
+                int CostoMinimo = int.MaxValue;
+                foreach (int i in VerticesVisitados)
+                {
+                    for (int j = 0; j < numNodos; j++) 
+                    {
+                        if (!VerticesVisitados.Contains(j) && matriz[i,j] != 0) 
+                        { 
+                            int costoArista = matriz[i, j];
+                            if (costoArista < CostoMinimo) 
+                            {
+                                aristaMinima = new int[] {i, j};
+                                CostoMinimo = costoArista;
+                            }
+                        }
+                    }
+                }
+                ArbolExpansion.Add(aristaMinima);
+                VerticesVisitados.Add(aristaMinima[1]);
+            }
+
+            return ArbolExpansion;
         }
     }
    
